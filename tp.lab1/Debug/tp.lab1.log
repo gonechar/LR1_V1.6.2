@@ -1,18 +1,19 @@
-﻿Сборка начата 07.03.2015 11:10:29.
-     1>Проект "E:\002_NSTU\4semestr\001_TechPROG\LR1\GIT\LR1_V1.6.1\tp.lab1\tp.lab1.vcxproj" в узле 2 (целевые объекты Rebuild).
+﻿Сборка начата 08.03.2015 20:50:26.
+     1>Проект "C:\Users\Gatsby\Documents\GitHub\LR1_V1.6.2\tp.lab1\tp.lab1.vcxproj" в узле 2 (целевые объекты Rebuild).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt argsParse.cpp filew.cpp tp.lab1.cpp
          tp.lab1.cpp
          filew.cpp
          argsParse.cpp
+     1>c:\users\gatsby\documents\github\lr1_v1.6.2\tp.lab1\argsparse.cpp(7): warning C4018: <: несоответствие типов со знаком и без знака
          Создание кода...
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\002_NSTU\4semestr\001_TechPROG\LR1\GIT\LR1_V1.6.1\Debug\tp.lab1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\002_NSTU\4semestr\001_TechPROG\LR1\GIT\LR1_V1.6.1\Debug\tp.lab1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\002_NSTU\4semestr\001_TechPROG\LR1\GIT\LR1_V1.6.1\Debug\tp.lab1.lib" /MACHINE:X86 Debug\argsParse.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Gatsby\Documents\GitHub\LR1_V1.6.2\Debug\tp.lab1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Gatsby\Documents\GitHub\LR1_V1.6.2\Debug\tp.lab1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Gatsby\Documents\GitHub\LR1_V1.6.2\Debug\tp.lab1.lib" /MACHINE:X86 Debug\argsParse.obj
          Debug\filew.obj
          Debug\tp.lab1.obj
-         tp.lab1.vcxproj -> E:\002_NSTU\4semestr\001_TechPROG\LR1\GIT\LR1_V1.6.1\Debug\tp.lab1.exe
-     1>Сборка проекта "E:\002_NSTU\4semestr\001_TechPROG\LR1\GIT\LR1_V1.6.1\tp.lab1\tp.lab1.vcxproj" завершена (целевые объекты Rebuild).
+         tp.lab1.vcxproj -> C:\Users\Gatsby\Documents\GitHub\LR1_V1.6.2\Debug\tp.lab1.exe
+     1>Сборка проекта "C:\Users\Gatsby\Documents\GitHub\LR1_V1.6.2\tp.lab1\tp.lab1.vcxproj" завершена (целевые объекты Rebuild).
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:02.36
+Затраченное время: 00:00:08.23
